@@ -4,6 +4,7 @@
  ## 🚀 Web developer
  -------------------------------
 ###  📝 About me,
+* I am currently pursuing second year B.TECH IT student.
 * 👨‍🎓  passionate  about Web devwloper, software developer.
 * 🌍 From Dindigul, Tamil Nadu
 -----------
@@ -13,6 +14,7 @@
 * Blog Website
 ![](https://media.licdn.com/dms/image/v2/D5612AQH4n6yFnEWuaw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1707416620365?e=2147483647&v=beta&t=-kvAd39XS5ww0-E2iez9sbyd3M_58mklRSt89ngUY7U )
 -----
+
 
 
 
